@@ -1,4 +1,5 @@
 import os
+
 from typing import List, Optional
 from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
